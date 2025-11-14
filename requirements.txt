@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlmodel
+psycopg2-binary
+python-dotenv
+PyPDF2
+sentence-transformers
+torch
+redis
+pinecone-client
+
