@@ -86,4 +86,3 @@ The AI decides whether the input is a booking request or a question:
 * Use ISO format for date (`YYYY-MM-DD`) and time (`HH:MM:SS`) in bookings.
 * Fixed and semantic chunk embeddings are stored in separate Pinecone indexes to avoid mixing.
 
-```
