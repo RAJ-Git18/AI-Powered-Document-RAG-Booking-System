@@ -1,2 +1,14 @@
-venv
+# Environment files
 .env
+.env.* 
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.env/
+
+# Docker stuff
+*.pid
